@@ -1,0 +1,1 @@
+In this repository, I include my implementations of popular sorting algorithms in Python and Java. The python file is self-sufficient, while the Java files both work together. This is because I needed to create a new class in order to be able to return several pieces of information for certain functions (such as a list and a boolean).
